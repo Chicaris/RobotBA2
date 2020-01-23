@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/RobotProject.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>30720</length>
+      <used>964</used>
+      <free>29756</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>261888</length>
+      <used>15810</used>
+      <free>246078</free>
+    </memory>
+  </executable>
+</project>
